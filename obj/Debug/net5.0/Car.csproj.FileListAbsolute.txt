@@ -1,0 +1,16 @@
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\Car.exe
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\Car.deps.json
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\Car.dll
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\ref\Car.dll
+C:\Users\zacwa\Code\CarDeal\bin\Debug\net5.0\Car.pdb
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.csproj.AssemblyReference.cache
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.dll
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\ref\Car.dll
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.pdb
+C:\Users\zacwa\Code\CarDeal\obj\Debug\net5.0\Car.genruntimeconfig.cache
