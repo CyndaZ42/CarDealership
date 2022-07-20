@@ -21,9 +21,6 @@ C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\n
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.TagHelpers.input.cache
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.TagHelpers.output.cache
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.RazorCoreGenerate.cache
-C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Veiws\Cars\CreateForm.cshtml.g.cs
-C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Veiws\Cars\Index.cshtml.g.cs
-C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Veiws\Home\Index.cshtml.g.cs
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.RazorTargetAssemblyInfo.cache
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.RazorTargetAssemblyInfo.cs
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.Views.pdb
@@ -32,3 +29,7 @@ C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\n
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.pdb
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.genruntimeconfig.cache
 C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\CarDealership.csproj.CopyComplete
+C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Home\Car.cshtml.g.cs
+C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Home\DisplayCars.cshtml.g.cs
+C:\Users\zacwa\Code\C# and .NET\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Home\MakeCar.cshtml.g.cs
